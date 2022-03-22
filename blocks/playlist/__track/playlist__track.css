@@ -1,0 +1,10 @@
+.playlist__track{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+
+.playlist__track:last-child{
+    margin-bottom: 0;
+}
